@@ -1,0 +1,2 @@
+export const logo = process.env.NEXT_PUBLIC_WORDPRESS_SITE_LOGO? process.env.NEXT_PUBLIC_WORDPRESS_SITE_LOGO : ""
+export const siteIntro = process.env.NEXT_PUBLIC_SITE_INTRO?  process.env.NEXT_PUBLIC_SITE_INTRO: ""
